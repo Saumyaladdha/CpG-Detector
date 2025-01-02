@@ -9,7 +9,7 @@ Deep learning solution for counting CpG sites in DNA sequences using LSTM archit
 * Streamlit (for web interface)
 ## **Installation**
 
-git clone \[repository-url\]  
+git clone https://github.com/Saumyaladdha/CpG-Detector/  
 cd cpg-detector
 pip install \-r requirements.txt
 
