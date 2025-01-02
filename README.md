@@ -16,9 +16,9 @@ pip install \-r requirements.txt
 
 ## **Usage**
 ### **Training**
-python  
-Copy
+
 python model.py
+
 ### **Web Interface**
 
 streamlit run app.py
